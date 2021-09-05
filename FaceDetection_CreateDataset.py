@@ -2,7 +2,7 @@ import cv2
 import os
 
 dataset = "dataset"
-name = "somnath"
+name = "steve"
 
 path = os.path.join(dataset,name) #dataset/champ
 if not os.path.isdir(path):
